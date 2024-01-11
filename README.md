@@ -7,7 +7,7 @@ Towards the end of 2023, Sweettooth confectionaries and Cornerstore Cafe was abo
 * Recognize employees that have done averagely well and would require training in some necessary area.
 * Identify employees that have failed to meet minimum requirements of the organisation.
 * Observe the relationships(if any) betweeen metrics in terms of how various employees fared in the grading exercise.
-* Recognize patterns or relationships(if any) between groups'(employees in a department) performance in a particular metric and their individual performances.
+* Recognize patterns or relationships(if any) between groups'(employees in a department) performance in a particular metric and their individual performances in same metric.
 * Finally identify employees' strenghts and weaknesses.
 ### Actionable results
 * In line with the organisation's policies, employees who performed well over average are to be rewarded appropraitely.
